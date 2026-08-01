@@ -8,8 +8,9 @@ names/roots don't matter.
  
 ## Install
 
-[![Add to VCC](vcc://vpm/addRepo?url=https://imdragonxd07.github.io/vpm-repo/index.json)]
-[![Add to BVCC](bvcc://addrepo?url=https://imdragonxd07.github.io/vpm-repo/index.json)]
+[![Add to VCC](https://img.shields.io/badge/Add%20to-VCC-2ea44f?style=for-the-badge)](vcc://vpm/addRepo?url=https://imdragonxd07.github.io/vpm-repo/index.json)
+
+[![Add to BVCC](https://img.shields.io/badge/Add%20to-BVCC-5865F2?style=for-the-badge)](bvcc://addrepo?url=https://imdragonxd07.github.io/vpm-repo/index.json)
 
 Put the package folder here:
  
