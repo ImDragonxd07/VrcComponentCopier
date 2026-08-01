@@ -7,7 +7,10 @@ VRChat avatar to another, matched by hierarchy **path** — so the avatar
 names/roots don't matter.
  
 ## Install
- 
+
+[![Add to VCC](https://img.shields.io/badge/Add%20to%20VCC-blue?style=for-the-badge)](vcc://vpm/addRepo?url=https:/ImDragonxd07/vpm-repo/refs/heads/main/index.json)
+[![Add to BVCC](https://img.shields.io/badge/Add%20to%20BVCC-blue?style=for-the-badge)](bvcc://addrepo?url=https://ImDragonxd07/vpm-repo/refs/heads/main/index.json)
+
 Put the package folder here:
  
 ```
