@@ -1,0 +1,7 @@
+{
+  "name": "com.dragonxd07.vrccomponentcopier",
+  "version": "1.0.0",
+  "displayName": "VRC Component Copier",
+  "description": "Editor tool for copying missing GameObjects/Components between VRChat avatars.",
+  "unity": "2022.3"
+}
