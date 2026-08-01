@@ -20,7 +20,7 @@ Packages/com.dragonxd07.vrccomponentcopier/
  
 ## Use
  
-1. Open **Tools > VRC Avatar Tools > Component Copier**.
+1. Open **Tools > VRC Component Copier**.
 2. Assign **Source Avatar** and **Target Avatar** (both must be in the open scene) → **Scan**.
 3. Check the objects/components you want. Missing objects are pre-checked.
    Use the filter box, group foldouts, or Select All / None to manage a long list.
