@@ -8,8 +8,7 @@ names/roots don't matter.
  
 ## Install
 
-vcc://vpm/addRepo?url=https://raw.githubusercontent.com/ImDragonxd07/vpm-repo/refs/heads/main/index.json
-bvcc://addrepo?url=https://raw.githubusercontent.com/ImDragonxd07/vpm-repo/refs/heads/main/index.json
+Add to your package manager: https://raw.githubusercontent.com/ImDragonxd07/vpm-repo/refs/heads/main/index.json
 
 Put the package folder here:
  
