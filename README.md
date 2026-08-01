@@ -8,7 +8,8 @@ names/roots don't matter.
  
 ## Install
 
-[Add to VCC]([https://github.com/Schecher1/Minecraft-Server-Creator/blob/master/README.md](https://img.shields.io/badge/Add%20to-VCC-00B4FF?style=for-the-badge)](vcc://vpm/addRepo?url=https://imdragonxd07.github.io/vpm-repo/index.json))
+vcc://vpm/addRepo?url=https://raw.githubusercontent.com/ImDragonxd07/vpm-repo/refs/heads/main/index.json
+bvcc://addrepo?url=https://raw.githubusercontent.com/ImDragonxd07/vpm-repo/refs/heads/main/index.json
 
 Put the package folder here:
  
